@@ -26,5 +26,5 @@
 
 [twitter]: https://twitter.com/sorin_miroiu
 [linkedin]: https://www.linkedin.com/in/sorin-miroiu/
-[email]: sorinmiroiu.sm@gmail.com
+[email]: mailto:sorinmiroiu.sm@gmail.com
 [github-stats]: https://github-readme-stats.vercel.app/api?username=sorinmiroiu97&show_icons=true&theme=github_dark&hide_border=false&border_radius=25&border_color=58A6FF&count_private=true&custom_title=Sorin's%20Github%20Stats
