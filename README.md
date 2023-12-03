@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/sorin_miroiu"><img alt="Twitter" width="25px" src="./res/twitter-icon.svg"></a>
-<a href="https://www.linkedin.com/in/sorin-miroiu"><img alt="Twitter" width="25px" src="./res/linkedin-icon.svg"></a>
+<a href="https://www.linkedin.com/in/sorin-miroiu"><img alt="LinkedIn" width="25px" src="./res/linkedin-icon.svg"></a>
 
 ---
 
