@@ -6,7 +6,7 @@
 - 🌱 Currently learning more about iOS dev, business and personal development.
 - 🤝 Open to collaborating with other businesses.
 - 💬 Ask me about pretty much anything you'd like to.
-- 📫 How to reach me: via [email][email] or checkout my [linkedin profile][linkedin].
+- 📫 How to reach me: via my [linkedin profile][linkedin], [instagram][instagram] page or just [email][email] me.
 - ⚡ Fun fact: I've practised Ju-Jitsu for overy 6 years and I love pretty much anything involving Star Wars.
 
 ---
@@ -27,5 +27,6 @@
 
 [twitter]: https://twitter.com/sorin_miroiu
 [linkedin]: https://www.linkedin.com/in/sorin-miroiu/
+[instagram]: https://www.instagram.com/sorin.miroiu
 [email]: mailto:sorinmiroiu.sm@gmail.com
 [github-stats]: https://github-readme-stats.vercel.app/api?username=sorinmiroiu97&show_icons=true&theme=github_dark&hide_border=false&border_radius=25&border_color=58A6FF&count_private=true&custom_title=Sorin's%20Github%20Stats
