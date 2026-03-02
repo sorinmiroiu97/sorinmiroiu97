@@ -24,11 +24,11 @@
 <br/>
 
 
-![Sorin's GitHub Streaks][github-streak]
+![GitHub Streaks][github-streak]
 
-![Sorin's Activity Graph][activity-graph]
+![Activity Graph][activity-graph]
 
-![Sorin's GitHub Stats][github-stats]
+<!-- ![GitHub Stats][github-stats] # not working; if and when it returns add this back-->
 
 <br/>
 
